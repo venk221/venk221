@@ -15,7 +15,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate Robotics Engineering graduat
 Here are some of the projects I've been working on:
 
 1. [Point Cloud Painting and Segmentation](https://github.com/venk221/Point-Cloud_Semantic-Segmentation-Point-Painting)
-2. [Structure from Motion]([link-to-repo](https://github.com/venk221/Structure-from-Motion-NeRF))
+2. [Structure from Motion]([link-to-repo](https://github.com/venk221/Structure-from-Motion-NeRF)
 
 Feel free to explore more projects on [my portfolio](https://venk221.github.io/).
 
