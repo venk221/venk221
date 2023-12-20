@@ -25,8 +25,11 @@ I'm always eager to learn and explore new technologies. Currently, I'm diving de
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** <a href="link-to-linkedin" style="text-decoration: none; display: inline-block; padding: 10px; background-color: #0077B5; color: #FFFFFF; border-radius: 5px;">Connect with me on LinkedIn</a>(https://www.linkedin.com/in/vmullur/)
+## 📫 Let's Connect
+
+- **LinkedIn:** [<span style="background-color: #0077B5; padding: 10px; color: #FFFFFF; border-radius: 5px;">Connect with me on LinkedIn</span>](https://www.linkedin.com/in/vmullur/)
 - **Email:** vmullur@wpi.edu
+
 
 ## 🎯 Goals for the Future
 
