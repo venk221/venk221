@@ -46,7 +46,7 @@ Thanks for visiting! Feel free to explore my projects, and don't hesitate to rea
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venk221&show_icons=true&locale=en&layout=compact" alt="venk221" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venk221&show_icons=true&locale=en" alt="venk221" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venk221&show_icons=true&locale=en" alt="venk221" /></p> -->
 
 
 <!--
