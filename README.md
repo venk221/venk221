@@ -24,8 +24,9 @@ Feel free to explore more projects on [my portfolio](https://venk221.github.io/)
 I'm always eager to learn and explore new technologies. Currently, I'm diving deeper into [Natural Language Processing and Sensor Fusion using MSCKF].
 
 ## 📫 Let's Connect
-
-- **LinkedIn:** [<span style="background-color: #0077B5; padding: 10px; color: #FFFFFF; border-radius: 5px;">Connect with me on LinkedIn</span>](https://www.linkedin.com/in/vmullur/)
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vmullur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vmullur/" height="30" width="40" /></a>
+</p>
 - **Email:** vmullur@wpi.edu
 
 
@@ -35,9 +36,6 @@ I'm passionate about [Robotic Perception and Perception of Autonomous Vehicles].
 
 Thanks for visiting! Feel free to explore my projects, and don't hesitate to reach out. Let's connect and collaborate! 🌟
 
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venk221&label=Profile%20views&color=0e75b6&style=flat" alt="venk221" /> </p>
 
