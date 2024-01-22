@@ -26,6 +26,7 @@ I'm always eager to learn and explore new technologies. Currently, I'm diving de
 ## 📫 Let's Connect
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vmullur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vmullur/" height="30" width="40" /></a>
+<a href="mailto:vmullur@wpi.edu"><img align="center" src="https://img.icons8.com/color/48/000000/email.png" alt="Email" height="30" width="40" /></a>
 </p>
 - Email: [vmullur@wpi.edu](mailto:vmullur@wpi.edu)
 <!-- -Email: vmullur@wpi.edu -->
