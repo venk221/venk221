@@ -21,18 +21,19 @@ Feel free to explore more projects on [my portfolio](https://venk221.github.io/)
 
 ## 🌱 Currently Learning
 
-I'm always eager to learn and explore new technologies. Currently, I'm diving deeper into [Natural Language Processing and Sensor Fusion using MSCKF].
+I'm always eager to learn and explore new technologies. Currently, I'm diving deeper into Natural Language Processing and Sensor Fusion using MSCKF.
 
 ## 📫 Let's Connect
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vmullur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vmullur/" height="30" width="40" /></a>
 </p>
-- **Email:** vmullur@wpi.edu
+- Email: [vmullur@wpi.edu](mailto:vmullur@wpi.edu)
+<!-- -Email: vmullur@wpi.edu -->
 
 
 ## 🎯 Goals for the Future
 
-I'm passionate about [Robotic Perception and Perception of Autonomous Vehicles]. 
+I'm passionate about Robotic Perception and the Perception of Autonomous Vehicles. 
 
 Thanks for visiting! Feel free to explore my projects, and don't hesitate to reach out. Let's connect and collaborate! 🌟
 
