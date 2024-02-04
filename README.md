@@ -1,6 +1,8 @@
-# Hi there! 👋 I'm Venkatesh Mullur
+👋 I'm Venkatesh Mullur
 
-Welcome to my GitHub profile! 🚀 I'm a passionate Robotics Engineering graduate student with a focus on Computer Vision, Deep Learning, and Machine Learning.
+Welcome to my pixel playground, where robots learn to see, solve problems, and even combat stress!  I'm Venkatesh, a robotics enthusiast and computer vision wizard, exploring the power of deep learning to unlock exciting possibilities.
+
+This repository is a peek into my ongoing journey, showcasing projects, experiments, and code that fuel my passion. 
 
 🌐 **Explore my portfolio:** [Portfolio](https://venk221.github.io/)
 
